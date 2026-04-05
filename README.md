@@ -19,8 +19,12 @@ This Project is done using Natural Language Processing (NLP) Techniques. Python 
 
 ## Key improvements and Results
 -Initial model using Bag-of-Words achieved 53% accuracy.
+
 -Optimized by:
+
     -Converting ratings into binary sentiment (positive/negative).
+    
     -Using TF-IDF vectorization.
+    
 Final model achieved 89% accuracy on test data.
 
