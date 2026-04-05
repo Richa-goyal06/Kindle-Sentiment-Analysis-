@@ -6,11 +6,16 @@ This Project is done using Natural Language Processing (NLP) Techniques. Python 
 
 ## Pipeline
 1.Performed data cleaning and EDA using Pandas and NumPy.
+
 2. Applied text preprocessing: tokenization, stopword removal, and lemmatization using NLTK.
-3. Extracted sentiment polarity features using TextBlob.
-4. Converted text into numerical features using Bag-of-Words and TF-IDF.
-5. Trained a Multinomial Naive Bayes classifier.
-6. Evaluated model using accuracy score and confusion matrix.
+   
+4. Extracted sentiment polarity features using TextBlob.
+   
+6. Converted text into numerical features using Bag-of-Words and TF-IDF.
+   
+8. Trained a Multinomial Naive Bayes classifier.
+   
+10. Evaluated model using accuracy score and confusion matrix.
 
 ## Key improvements and Results
 -Initial model using Bag-of-Words achieved 53% accuracy.
